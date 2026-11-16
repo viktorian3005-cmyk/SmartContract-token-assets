@@ -1,0 +1,37 @@
+{
+  "name": "Copper Wave",
+  "symbol": "CWAV",
+  "description": "Molten copper. Hard tide. Copper Wave is a Solana launch brand for traders who want clean liquidity and zero fluff — molten flow on the chart, steel discipline in the exit.",
+  "image": "https://raw.githubusercontent.com/viktorian3005-cmyk/SmartContract-token-assets/main/assets/token-templates/copper-wave/logo.png",
+  "attributes": [
+    {
+      "trait_type": "template",
+      "value": "copper-wave"
+    },
+    {
+      "trait_type": "tag",
+      "value": "metal"
+    },
+    {
+      "trait_type": "tag",
+      "value": "trading"
+    },
+    {
+      "trait_type": "tag",
+      "value": "solana"
+    },
+    {
+      "trait_type": "tag",
+      "value": "liquidity"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/viktorian3005-cmyk/SmartContract-token-assets/main/assets/token-templates/copper-wave/logo.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Silent Orbit",
+  "symbol": "SORB",
+  "description": "No sirens. No slogans. Silent Orbit moves in quiet cycles — long holds, cold precision, proof only on-chain. Stealth rings around a dark core.",
+  "image": "https://raw.githubusercontent.com/viktorian3005-cmyk/SmartContract-token-assets/main/assets/token-templates/silent-orbit/logo.png",
+  "attributes": [
+    {
+      "trait_type": "template",
+      "value": "silent-orbit"
+    },
+    {
+      "trait_type": "tag",
+      "value": "stealth"
+    },
+    {
+      "trait_type": "tag",
+      "value": "orbit"
+    },
+    {
+      "trait_type": "tag",
+      "value": "solana"
+    },
+    {
+      "trait_type": "tag",
+      "value": "precision"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/viktorian3005-cmyk/SmartContract-token-assets/main/assets/token-templates/silent-orbit/logo.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

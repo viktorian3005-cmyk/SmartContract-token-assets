@@ -1,0 +1,37 @@
+{
+  "name": "Nebula Fox",
+  "symbol": "NFOX",
+  "description": "Born between stars. Nebula Fox is a Solana speed-run mascot — cosmic heat, tight ticker, community hunt. Track the chart. Leave no trail.",
+  "image": "https://raw.githubusercontent.com/viktorian3005-cmyk/SmartContract-token-assets/main/assets/token-templates/nebula-fox/logo.png",
+  "attributes": [
+    {
+      "trait_type": "template",
+      "value": "nebula-fox"
+    },
+    {
+      "trait_type": "tag",
+      "value": "cosmic"
+    },
+    {
+      "trait_type": "tag",
+      "value": "meme"
+    },
+    {
+      "trait_type": "tag",
+      "value": "solana"
+    },
+    {
+      "trait_type": "tag",
+      "value": "fox"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/viktorian3005-cmyk/SmartContract-token-assets/main/assets/token-templates/nebula-fox/logo.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

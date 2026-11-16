@@ -1,0 +1,37 @@
+{
+  "name": "Pixel Orchid",
+  "symbol": "PORC",
+  "description": "Bloom in 8-bit. Pixel Orchid mixes retro art culture with a pure SPL mint — soft petals, sharp community energy, neon nostalgia on-chain.",
+  "image": "https://raw.githubusercontent.com/viktorian3005-cmyk/SmartContract-token-assets/main/assets/token-templates/pixel-orchid/logo.png",
+  "attributes": [
+    {
+      "trait_type": "template",
+      "value": "pixel-orchid"
+    },
+    {
+      "trait_type": "tag",
+      "value": "pixel"
+    },
+    {
+      "trait_type": "tag",
+      "value": "art"
+    },
+    {
+      "trait_type": "tag",
+      "value": "solana"
+    },
+    {
+      "trait_type": "tag",
+      "value": "retro"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/viktorian3005-cmyk/SmartContract-token-assets/main/assets/token-templates/pixel-orchid/logo.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

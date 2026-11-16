@@ -1,0 +1,37 @@
+{
+  "name": "Glass Hammer",
+  "symbol": "GHMR",
+  "description": "Looks fragile. Hits hard. Glass Hammer is launch-grade Solana branding — Dex-ready, Birdeye-ready, crystal-clear identity with impact that does not miss.",
+  "image": "https://raw.githubusercontent.com/viktorian3005-cmyk/SmartContract-token-assets/main/assets/token-templates/glass-hammer/logo.png",
+  "attributes": [
+    {
+      "trait_type": "template",
+      "value": "glass-hammer"
+    },
+    {
+      "trait_type": "tag",
+      "value": "launch"
+    },
+    {
+      "trait_type": "tag",
+      "value": "impact"
+    },
+    {
+      "trait_type": "tag",
+      "value": "solana"
+    },
+    {
+      "trait_type": "tag",
+      "value": "crystal"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/viktorian3005-cmyk/SmartContract-token-assets/main/assets/token-templates/glass-hammer/logo.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
